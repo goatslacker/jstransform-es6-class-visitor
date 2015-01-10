@@ -1,0 +1,3 @@
+All about the class, no munging.
+
+This is essentially https://github.com/facebook/jstransform/blob/master/visitors/es6-class-visitors.js but without the "private" underscore identifier munging.

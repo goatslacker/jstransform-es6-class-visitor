@@ -1,0 +1,33 @@
+{
+  "name": "jstransform-es6-class-visitor",
+  "version": "1.0.0",
+  "description": "all about the class, no munging",
+  "main": "es6-class-visitors.js",
+  "dependencies": {
+    "base62": "^1.0.0",
+    "esprima-fb": "^8001.2001.0-dev-harmony-fb"
+  },
+  "devDependencies": {
+    "jest-cli": "^0.2.1",
+    "jstransform": "^8.2.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/goatslacker/jstransform-es6-class-visitor"
+  },
+  "keywords": [
+    "jstransform",
+    "class",
+    "es6",
+    "visitor"
+  ],
+  "author": "",
+  "license": "Apache",
+  "bugs": {
+    "url": "https://github.com/goatslacker/jstransform-es6-class-visitor/issues"
+  },
+  "homepage": "https://github.com/goatslacker/jstransform-es6-class-visitor"
+}
